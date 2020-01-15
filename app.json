@@ -20,7 +20,7 @@
   },
   "addons": [
     {
-      "plan": "heroku-postgresql:standard-0",
+      "plan": "heroku-postgresql",
       "as": "FATHOM_DATABASE"
     }
   ],

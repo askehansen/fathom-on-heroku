@@ -5,13 +5,13 @@
 - check that everything is working
 
 ```bash
-heroku run fathom --version
+heroku run bin/fathom --version
 ```
 
 - add the first user
 
 ```bash
-heroku run fathom user add --email="test@test.com" --password="test_password"
+heroku run bin/fathom user add --email="test@test.com" --password="test_password"
 ```
 
 - open the browser to login and add your first website
