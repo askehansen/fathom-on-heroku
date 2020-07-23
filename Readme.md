@@ -1,6 +1,6 @@
 # Running Fathom on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ys/fathom-on-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/askehansen/fathom-on-heroku)
 
 - check that everything is working
 
